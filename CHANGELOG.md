@@ -1,8 +1,8 @@
 # Changelog
 
-Todas as mudanças relevantes do KitoSoft Mechanic Tool serão registradas neste arquivo.
+Todas as mudanças relevantes do Mechanic Tool — by KitoSoft serão registradas neste arquivo.
 
-## 1.0.0 - 2026-08-14
+## 1.0.0 - 2026-08-15
 
 ### Adicionado
 - Calculadora com até 9 itens/serviços configuráveis.
