@@ -96,7 +96,7 @@ Baixe sempre os arquivos pela página oficial de Releases deste repositório.
 
 O Mechanic Tool é gratuito. Se ele for útil no seu RP, você pode apoiar voluntariamente o desenvolvimento via PIX.
 
-<img src="docs/pix-qrcode.png" width="260" alt="QR Code PIX oficial do Mechanic Tool">
+<img width="260" height="260" alt="Qr-Code-Pix-Kikapture" src="https://github.com/user-attachments/assets/64d17d3c-5579-43e2-88f9-eb6f05b1c8c7" />
 
 **PIX:** `5ca81030-e0f6-4776-93be-ded515c14654`
 
