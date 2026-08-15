@@ -10,21 +10,19 @@ Os arquivos oficiais são publicados somente em **Releases** deste repositório.
 
 ### Installer — recomendado
 
-Baixe:
-
-`MechanicTool-KitoSoft-Setup-v1.0.1.exe`
+[⬇️ **Baixar Mechanic Tool v1.0.1 — Installer**](https://github.com/democlit00-ops/MechanicTool-KitoSoft/releases/download/v1.0.1/MechanicTool-KitoSoft-Setup-v1.0.1.exe)
 
 Instala o Mechanic Tool no Windows, cria os atalhos escolhidos durante a instalação e inclui o desinstalador.
 
 ### Portable
 
-Baixe:
-
-`MechanicTool-KitoSoft-Portable-v1.0.1.zip`
+[⬇️ **Baixar Mechanic Tool v1.0.1 — Portable**](https://github.com/democlit00-ops/MechanicTool-KitoSoft/releases/download/v1.0.1/MechanicTool-KitoSoft-Portable-v1.0.1.zip)
 
 Extraia o ZIP para uma pasta e execute `Mechanic Tool.exe`. Não exige instalação.
 
 > As duas versões são para Windows x64 e incluem o runtime necessário. Não é preciso instalar o .NET separadamente.
+
+[📦 **Ver a Release v1.0.1 completa**](https://github.com/democlit00-ops/MechanicTool-KitoSoft/releases/tag/v1.0.1)
 
 ### Novidades da v1.0.1
 
@@ -98,7 +96,7 @@ Baixe sempre os arquivos pela página oficial de Releases deste repositório.
 
 O Mechanic Tool é gratuito. Se ele for útil no seu RP, você pode apoiar voluntariamente o desenvolvimento via PIX.
 
-<img src="docs/pix-qrcode.png" width="260" alt="QR Code PIX oficial do Mechanic Tool" />
+<img src="docs/pix-qrcode.png" width="260" alt="QR Code PIX oficial do Mechanic Tool">
 
 **PIX:** `5ca81030-e0f6-4776-93be-ded515c14654`
 
