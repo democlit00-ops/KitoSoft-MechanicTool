@@ -1,0 +1,26 @@
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+
+# .NET build
+**/bin/
+**/obj/
+
+# Publicações locais
+release/
+publish/
+artifacts/
+
+# Dados locais / backups
+data.json
+data.recovery.json
+*.backup.json
+*.zip
+
+# Logs e temporários
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
