@@ -12,7 +12,7 @@ Os arquivos oficiais são publicados somente em **Releases** deste repositório.
 
 Baixe:
 
-`MechanicTool-KitoSoft-Setup-v1.0.0.exe`
+`MechanicTool-KitoSoft-Setup-v1.0.1.exe`
 
 Instala o Mechanic Tool no Windows, cria os atalhos escolhidos durante a instalação e inclui o desinstalador.
 
@@ -20,11 +20,19 @@ Instala o Mechanic Tool no Windows, cria os atalhos escolhidos durante a instala
 
 Baixe:
 
-`MechanicTool-KitoSoft-Portable-v1.0.0.zip`
+`MechanicTool-KitoSoft-Portable-v1.0.1.zip`
 
 Extraia o ZIP para uma pasta e execute `Mechanic Tool.exe`. Não exige instalação.
 
 > As duas versões são para Windows x64 e incluem o runtime necessário. Não é preciso instalar o .NET separadamente.
+
+### Novidades da v1.0.1
+
+- Corrigida a edição de atalhos globais, permitindo reutilizar combinações válidas como `Shift + 7`.
+- Durante a captura de um novo atalho, os atalhos globais do próprio aplicativo são suspensos temporariamente para não interferirem na leitura das teclas.
+- Continuam reservados apenas `Shift + 0` e `Ctrl + Shift + O`.
+- Melhorada a notificação ao minimizar para a bandeja.
+- O aviso de minimização aparece somente uma vez por execução.
 
 ## Recursos
 
@@ -82,7 +90,7 @@ Os dados de uso ficam no computador do usuário. O programa não envia históric
 
 ## Windows SmartScreen
 
-A versão 1.0.0 ainda não possui certificado comercial de assinatura de código. Por isso, em alguns computadores o Windows SmartScreen pode exibir um aviso de **editor desconhecido** ao abrir o instalador ou o executável pela primeira vez.
+A versão 1.0.1 ainda não possui certificado comercial de assinatura de código. Por isso, em alguns computadores o Windows SmartScreen pode exibir um aviso de **editor desconhecido** ao abrir o instalador ou o executável pela primeira vez.
 
 Baixe sempre os arquivos pela página oficial de Releases deste repositório.
 
@@ -108,6 +116,6 @@ Encontrou um bug ou comportamento incorreto? Use a aba **Issues** deste reposit�
 
 ## Versão atual
 
-**Mechanic Tool v1.0.0 — by KitoSoft**
+**Mechanic Tool v1.0.1 — by KitoSoft**
 
 Este repositório é usado para documentação, downloads oficiais e suporte. O código-fonte do aplicativo não é distribuído aqui.
