@@ -2,6 +2,16 @@
 
 Todas as mudanças relevantes do Mechanic Tool — by KitoSoft serão registradas neste arquivo.
 
+## 1.0.1 - 2026-08-15
+
+### Corrigido
+- Correção da edição de atalhos globais: combinações válidas já utilizadas anteriormente, como `Shift + 7`, agora podem ser capturadas e configuradas novamente.
+- Durante a captura de um novo atalho, os atalhos globais do próprio Mechanic Tool são suspensos temporariamente para evitar interferência.
+- Mantidos como reservados apenas os atalhos críticos do aplicativo: `Shift + 0` para zerar a calculadora e `Ctrl + Shift + O` para mostrar ou ocultar o overlay.
+- Melhorada a notificação ao minimizar para a bandeja.
+- A notificação da bandeja agora identifica o aplicativo como **Mechanic Tool**, em vez de exibir apenas **KitoSoft**.
+- O aviso de minimização é exibido somente uma vez por execução, evitando notificações repetitivas.
+
 ## 1.0.0 - 2026-08-15
 
 ### Adicionado
