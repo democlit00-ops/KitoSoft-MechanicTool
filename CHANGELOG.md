@@ -2,6 +2,27 @@
 
 Todas as mudanças relevantes do Mechanic Tool — by KitoSoft serão registradas neste arquivo.
 
+## 1.0.2 - 2026-08-16
+
+### Corrigido
+- Corrigido o comportamento dos campos **Banco final do turno** e **Dinheiro final do turno** durante um turno aberto.
+- O usuário agora pode alterar os valores finais várias vezes sem o campo restaurar o número anterior de forma intermitente.
+- O **Lucro previsto** passa a ser recalculado imediatamente quando apenas um dos campos finais é informado e o outro permanece em zero.
+- Os valores finais em edição permanecem disponíveis enquanto o turno continua aberto.
+
+### Adicionado
+- Verificação de novas versões pelo GitHub em segundo plano, sem bloquear o uso do aplicativo.
+- Botão **Verificar atualizações** na tela **Sobre / Apoie**.
+- Fluxo assistido de atualização: o usuário escolhe quando atualizar.
+- Download do Installer oficial da Release mais recente.
+- Validação do Installer por **SHA-256** antes da execução.
+- Abertura automática do instalador após o download e a validação bem-sucedida.
+- Tela de novidades/changelog exibida uma única vez após a atualização.
+- Botão **Histórico de versões** para consultar as versões publicadas no GitHub.
+
+### Atualização
+- A v1.0.2 é a primeira versão com verificação de atualização integrada. Usuários da v1.0.1 precisam instalar a v1.0.2 manualmente; as versões seguintes poderão ser detectadas pelo próprio aplicativo.
+
 ## 1.0.1 - 2026-08-15
 
 ### Corrigido
