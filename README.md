@@ -12,6 +12,14 @@ Assista ao tutorial completo para aprender a configurar e utilizar o Mechanic To
 
 ▶️ **[Assistir ao tutorial completo no YouTube](https://youtu.be/KXMfE-bWXl4)**
 
+## 🎮 Demonstração no GTA RP
+
+Veja o **overlay do Mechanic Tool funcionando durante o jogo**, com o valor do orçamento sendo atualizado sem precisar sair do GTA ou usar Alt+Tab.
+
+[![Mechanic Tool em uso no GTA RP](https://img.youtube.com/vi/ZOsCYhdAd74/hqdefault.jpg)](https://youtu.be/ZOsCYhdAd74)
+
+▶️ **[Assistir à demonstração no GTA RP](https://youtu.be/ZOsCYhdAd74)**
+
 ## Download
 
 Os arquivos oficiais são publicados somente em **Releases** deste repositório.
