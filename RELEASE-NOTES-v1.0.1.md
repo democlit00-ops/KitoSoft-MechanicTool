@@ -2,6 +2,14 @@
 
 Atualização de correção e acabamento do **Mechanic Tool — by KitoSoft**.
 
+## 🎥 Tutorial de uso
+
+Assista ao tutorial completo do Mechanic Tool no YouTube:
+
+▶️ **[Mechanic Tool by KitoSoft — Tutorial Completo para Mecânicos no GTA RP](https://youtu.be/KXMfE-bWXl4)**
+
+O vídeo mostra configurações, atalhos, calculadora, controle de turno, histórico, análises, backup e a área Sobre / Apoie.
+
 ## O que foi corrigido
 
 - Corrigida a edição de atalhos globais.
