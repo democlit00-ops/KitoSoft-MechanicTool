@@ -18,27 +18,32 @@ Os arquivos oficiais são publicados somente em **Releases** deste repositório.
 
 ### Installer — recomendado
 
-[⬇️ **Baixar Mechanic Tool v1.0.1 — Installer**](https://github.com/democlit00-ops/MechanicTool-KitoSoft/releases/download/v1.0.1/MechanicTool-KitoSoft-Setup-v1.0.1.exe)
+[⬇️ **Baixar Mechanic Tool v1.0.2 — Installer**](https://github.com/democlit00-ops/MechanicTool-KitoSoft/releases/download/v1.0.2/MechanicTool-KitoSoft-Setup-v1.0.2.exe)
 
 Instala o Mechanic Tool no Windows, cria os atalhos escolhidos durante a instalação e inclui o desinstalador.
 
 ### Portable
 
-[⬇️ **Baixar Mechanic Tool v1.0.1 — Portable**](https://github.com/democlit00-ops/MechanicTool-KitoSoft/releases/download/v1.0.1/MechanicTool-KitoSoft-Portable-v1.0.1.zip)
+[⬇️ **Baixar Mechanic Tool v1.0.2 — Portable**](https://github.com/democlit00-ops/MechanicTool-KitoSoft/releases/download/v1.0.2/MechanicTool-KitoSoft-Portable-v1.0.2.zip)
 
 Extraia o ZIP para uma pasta e execute `Mechanic Tool.exe`. Não exige instalação.
 
 > As duas versões são para Windows x64 e incluem o runtime necessário. Não é preciso instalar o .NET separadamente.
 
-[📦 **Ver a Release v1.0.1 completa**](https://github.com/democlit00-ops/MechanicTool-KitoSoft/releases/tag/v1.0.1)
+> Usuários da **v1.0.1** devem atualizar manualmente para a v1.0.2. A verificação de novas versões pelo próprio aplicativo passa a estar disponível a partir da **v1.0.2**.
 
-### Novidades da v1.0.1
+[📦 **Ver a Release v1.0.2 completa**](https://github.com/democlit00-ops/MechanicTool-KitoSoft/releases/tag/v1.0.2)
 
-- Corrigida a edição de atalhos globais, permitindo reutilizar combinações válidas como `Shift + 7`.
-- Durante a captura de um novo atalho, os atalhos globais do próprio aplicativo são suspensos temporariamente para não interferirem na leitura das teclas.
-- Continuam reservados apenas `Shift + 0` e `Ctrl + Shift + O`.
-- Melhorada a notificação ao minimizar para a bandeja.
-- O aviso de minimização aparece somente uma vez por execução.
+### Novidades da v1.0.2
+
+- Corrigido o comportamento dos campos **Banco final do turno** e **Dinheiro final do turno** durante um turno aberto.
+- O **Lucro previsto** agora é recalculado imediatamente mesmo quando apenas um dos campos finais é informado e o outro permanece em zero.
+- Os valores finais em edição permanecem disponíveis enquanto o turno continua aberto.
+- Adicionada verificação de novas versões pelo GitHub sem bloquear o uso do aplicativo.
+- O usuário pode verificar atualizações manualmente pela tela **Sobre / Apoie**.
+- Quando houver uma nova versão, o Mechanic Tool pode baixar o Installer oficial, validar o arquivo por **SHA-256** e abrir a instalação após confirmação do usuário.
+- Adicionada tela de novidades/changelog exibida uma vez após a atualização.
+- Adicionado acesso ao histórico de versões pelo GitHub.
 
 ## Recursos
 
@@ -56,6 +61,8 @@ Extraia o ZIP para uma pasta e execute `Mechanic Tool.exe`. Não exige instalaç
 - Análises de hoje, últimos 7 dias e últimos 30 dias.
 - Melhor data, melhor dia da semana e ranking estimado por faixa horária.
 - Backup e restauração manual.
+- Verificação de atualizações pelo GitHub.
+- Changelog exibido após atualização.
 - Minimização para a bandeja do Windows.
 - Dados armazenados localmente no computador.
 
@@ -82,6 +89,14 @@ saldo final - saldo inicial
 
 Qualquer dinheiro que entrar ou sair durante o período naturalmente fará parte do resultado da sessão.
 
+## Atualizações
+
+A partir da **v1.0.2**, o Mechanic Tool pode consultar a Release mais recente publicada neste repositório.
+
+Quando uma versão mais nova estiver disponível, o usuário pode optar por atualizar. O Installer é baixado da Release oficial e verificado por SHA-256 antes de ser executado.
+
+A atualização não é instalada silenciosamente: o usuário confirma o processo e acompanha normalmente o instalador.
+
 ## Análises
 
 Sessões menores que 15 minutos continuam aparecendo no Histórico e contam nos totais de lucro, mas ficam fora das métricas em que uma duração muito curta distorceria o resultado, como média por hora e ranking de horários.
@@ -96,7 +111,7 @@ Os dados de uso ficam no computador do usuário. O programa não envia históric
 
 ## Windows SmartScreen
 
-A versão 1.0.1 ainda não possui certificado comercial de assinatura de código. Por isso, em alguns computadores o Windows SmartScreen pode exibir um aviso de **editor desconhecido** ao abrir o instalador ou o executável pela primeira vez.
+A versão 1.0.2 ainda não possui certificado comercial de assinatura de código. Por isso, em alguns computadores o Windows SmartScreen pode exibir um aviso de **editor desconhecido** ao abrir o instalador ou o executável pela primeira vez.
 
 Baixe sempre os arquivos pela página oficial de Releases deste repositório.
 
@@ -122,6 +137,6 @@ Encontrou um bug ou comportamento incorreto? Use a aba **Issues** deste reposit�
 
 ## Versão atual
 
-**Mechanic Tool v1.0.1 — by KitoSoft**
+**Mechanic Tool v1.0.2 — by KitoSoft**
 
 Este repositório é usado para documentação, downloads oficiais e suporte. O código-fonte do aplicativo não é distribuído aqui.
