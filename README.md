@@ -4,6 +4,14 @@
 
 Ferramenta leve para mecânicos em servidores **GTA RP / FiveM**, criada para reduzir Alt+Tab e facilitar cálculos, controle de turno, histórico e análise de ganhos.
 
+## 🎥 Tutorial de uso
+
+Assista ao tutorial completo para aprender a configurar e utilizar o Mechanic Tool: configurações, atalhos, calculadora, controle de turno, histórico, análises, backup e suporte ao projeto.
+
+[![Assistir ao tutorial completo do Mechanic Tool](https://img.youtube.com/vi/KXMfE-bWXl4/hqdefault.jpg)](https://youtu.be/KXMfE-bWXl4)
+
+▶️ **[Assistir ao tutorial completo no YouTube](https://youtu.be/KXMfE-bWXl4)**
+
 ## Download
 
 Os arquivos oficiais são publicados somente em **Releases** deste repositório.
